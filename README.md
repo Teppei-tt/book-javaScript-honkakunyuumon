@@ -1,2 +1,1 @@
-hoge
 # book-javaScript-honkakunyuumon
